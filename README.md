@@ -1,5 +1,5 @@
 <h1 align="center">
-    My Personal :tada: <a href="mahmudulalam.github.io">Website!</a> :tada:
+    My Personal :tada: <a href="https://mahmudulalam.github.io" target="_blank">Website!</a> :tada:
 </h1>
 
 <h2 align="center">

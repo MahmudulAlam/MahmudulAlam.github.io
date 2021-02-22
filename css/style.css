@@ -39,8 +39,7 @@ a.nav-link:hover {
 /* Home */
 
 .home {
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-top: 20px;
 }
 
 .col-lg-4, .col-lg-8 {
@@ -50,7 +49,8 @@ a.nav-link:hover {
 }
 
 .avatar {
-    padding-top: 10%;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 .avatar img {
@@ -96,11 +96,13 @@ a.nav-link:hover {
 .bio h1 {
     font-size: 40px;
     font-weight: 400;
+    padding-bottom: 5px;
 }
 
 .bio p {
     font-size: 20px;
     text-align: justify;
+    padding-bottom: 5px;
 }
 
 h2 {
@@ -125,12 +127,16 @@ div.education {
 p.degree {
     font-size: 20px;
     font-weight: 400;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 }
 
 p.school {
     font-size: 18px;
-    margin: 0;
+    margin-bottom: 5px;
+}
+
+p.address {
+    font-size: 18px;
 }
 
 /* Publications */
@@ -288,6 +294,10 @@ p.school {
 }
 
 /* Contact */
+
+#contact h1 {
+    margin-bottom: 50px;
+}
 
 input.form-control {
     font-size: 18px;
