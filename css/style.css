@@ -128,15 +128,18 @@ p.degree {
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 5px;
+    padding-left: 10px;
 }
 
 p.school {
     font-size: 18px;
     margin-bottom: 5px;
+    padding-left: 10px;
 }
 
 p.address {
     font-size: 18px;
+    padding-left: 10px;
 }
 
 /* Publications */
